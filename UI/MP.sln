@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{6b861d8d-d064-9778-8b77-b8e40b41bbbb}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.RenderPipelines.Universal.Runtime", "Unity.RenderPipelines.Universal.Runtime.csproj", "{6b2ed45c-2095-0457-4bd8-0d7576673dc6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{335c3752-318b-1f0d-114c-0ec8216047dc}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6b861d8d-d064-9778-8b77-b8e40b41bbbb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6b861d8d-d064-9778-8b77-b8e40b41bbbb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6b2ed45c-2095-0457-4bd8-0d7576673dc6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6b2ed45c-2095-0457-4bd8-0d7576673dc6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335c3752-318b-1f0d-114c-0ec8216047dc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335c3752-318b-1f0d-114c-0ec8216047dc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
